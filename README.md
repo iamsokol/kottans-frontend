@@ -7,7 +7,7 @@ This repository is created to reflect the process of my Kottans Front-End Course
  - [x] 3. Front-End Basics
  - [x] 4. Responsive Web Design
  - [x] 5. JavaScript Basics
- - [ ] 6. Document Object Model
+ - [x] 6. Document Object Model
  - [ ] 7. Building a Tiny JS World (pre-OOP)
  - [ ] 8. Object Oriented JS
  - [ ] 9. OOP Exercise
@@ -74,3 +74,23 @@ This repository is created to reflect the process of my Kottans Front-End Course
 
 
  ***
+
+ ## DOM
+
+
+1) What was new to me - querying and modifying the DOM, modifying classes and attributes etc.
+2) What surprised me -  innerText property)
+2) What I intend to use in future - querySelector,  .querySelectorAll(), createElement, .removeChild, remove(), .setAttribute().
+
+
+### Practice
+
+1) What was new to me - it was an interesting task where I could use HTML, CSS and JS altogether.
+
+2) What surprised me - nothing, just I was pleased to do this task.
+
+3) What I intend to use in future -  different methods of JS, such as  .removeChild, remove(), .setAttribute() createElement, querySelector and others.
+
+Reviewed and approved by ...
+[Demo](https://iamsokol.github.io/js_dom/)
+[Code base](https://github.com/iamsokol/iamsokol.github.io/tree/master/js_dom)
