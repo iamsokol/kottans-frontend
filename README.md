@@ -1,12 +1,12 @@
 # Kottans-frontend
 This repository is created to reflect the process of my Kottans Front-End Course tasks completion.
 
- - [ ] 0. Git intro
- - [ ] 1. Linux CLI, and HTTP
- - [ ] 2. Git Collaboration
- - [ ] 3. Front-End Basics
- - [ ] 4. Responsive Web Design
- - [ ] 5. JavaScript Basics
+ - [x] 0. Git intro
+ - [x] 1. Linux CLI, and HTTP
+ - [x] 2. Git Collaboration
+ - [x] 3. Front-End Basics
+ - [x] 4. Responsive Web Design
+ - [x] 5. JavaScript Basics
  - [ ] 6. Document Object Model
  - [ ] 7. Building a Tiny JS World (pre-OOP)
  - [ ] 8. Object Oriented JS
